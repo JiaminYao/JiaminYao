@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Jiamin 👋
+<h1 style="border: none;">Hey, I'm Jiamin 👋</h1>
 
 **`AI/ML Researcher · LLM Whisperer · Code Craftsman`**
 
@@ -15,7 +15,7 @@
 
 - 🎓 MS in Computer Science @ **Southern Illinois University Edwardsville**
 - 🔬 Research focus: **LLM Compression** & **Computer Vision**
-- 📄 Paper accepted at **LREC 2026** — _"SPQ: An Ensemble Technique for Large Language Model Compression"_ (Oral)
+- 📄 Paper accepted at **LREC 2026** — [_"SPQ: An Ensemble Technique for Large Language Model Compression"_](https://arxiv.org/abs/2602.18420) (Oral)
 - 🔭 Currently exploring **AI Agents** & **LLM optimization**
 - 💬 Ask me about squeezing large models into tiny spaces
 
@@ -23,21 +23,33 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Languages**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,r,bash" />
+</p>
 
-<div align="center">
+**AI / ML**
 
-*"Make large models small, and small models mighty."*
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JiaminYao&color=blueviolet&style=flat-square)
+**Web & Cloud**
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,supabase,docker,git" />
+</p>
+
+**Data & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,matlab" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" />
+</p>
+
