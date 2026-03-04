@@ -14,11 +14,15 @@
 
 ### 🧠 About Me
 
-- 🎓 MS in Computer Science @ **Southern Illinois University Edwardsville**
-- 🔬 Research focus: **LLM Compression** & **Computer Vision**
-- 📄 Paper accepted at **LREC 2026** — [_"SPQ: An Ensemble Technique for Large Language Model Compression"_](https://arxiv.org/abs/2602.18420) (Oral)
-- 🔭 Currently exploring **AI Agents** & **LLM optimization**
-- 💬 Ask me about squeezing large models into tiny spaces
+```python
+class Jiamin:
+    role      = "ML/AI Engineer"
+    focus     = ["LLM Compression", "AI Agents", "Computer Vision"]
+    fun_fact  = "I make large models small and small models mighty"
+```
+
+- 📄 **LREC 2026 (Oral)** — [_SPQ: An Ensemble Technique for LLM Compression_](https://arxiv.org/abs/2602.18420)
+- 🔭 Currently obsessed with making LLMs run on everything, everywhere, all at once
 
 
 ### 🛠️ Tech Stack
