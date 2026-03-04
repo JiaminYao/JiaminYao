@@ -5,27 +5,28 @@
 </div>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25" /> About Me
+### <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30" /> About Me
 
 ```python
 class Jiamin:
-    role      = "ML/AI Engineer"
-    focus     = ["LLM Compression", "AI Agents", "Computer Vision"]
-    fun_fact  = "I make large models small and small models mighty"
+    role       = "ML/AI Engineer"
+    focus      = ["LLM Compression", "AI Agents", "Computer Vision"]
+    paper      = "SPQ: An Ensemble Technique for LLM Compression @ LREC 2026 (Oral)"
+    obsession  = "Making LLMs run on everything, everywhere, all at once"
+    fun_fact   = "I make large models small and small models mighty"
 ```
 
-- 📄 **LREC 2026 (Oral)** — [_SPQ: An Ensemble Technique for LLM Compression_](https://arxiv.org/abs/2602.18420)
-- 🔭 Currently obsessed with making LLMs run on everything, everywhere, all at once
 
-
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> Tech Stack
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -43,6 +44,7 @@ class Jiamin:
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logoColor=black)
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25" /> Contact Me
 
