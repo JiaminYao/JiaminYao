@@ -5,7 +5,7 @@
 </div>
 
 
-### <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30" /> About Me
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> About Me
 
 ```python
 class Jiamin:
@@ -17,7 +17,7 @@ class Jiamin:
 ```
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Tech Stack
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
