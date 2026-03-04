@@ -4,8 +4,10 @@
 
 **`AI/ML Researcher · LLM Whisperer · Code Craftsman`**
 
-[![Website](https://img.shields.io/badge/Portfolio-jiaminyao.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://jiaminyao.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JiaminYao-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiaminyao/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://jiaminyao.github.io/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiaminyao/)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Pg2Whm8AAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JiaminYao)
 
 </div>
 
