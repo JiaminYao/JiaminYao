@@ -34,28 +34,6 @@
 
 ---
 
-### 🔥 Featured Project
-
-<a href="https://github.com/JiaminYao/SPQ_LLM_Compression">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JiaminYao&repo=SPQ_LLM_Compression&theme=tokyonight" />
-</a>
-
-> **SPQ** — Ensemble compression for LLMs combining SVD + Activation Pruning + 8-bit Quantization.
-> Smarter compression, better performance. 🚀
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JiaminYao&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaminYao&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 *"Make large models small, and small models mighty."*
